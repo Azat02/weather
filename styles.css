@@ -108,3 +108,9 @@ select{
 .dayIcon{
     width: 86px;
 }
+
+@media (max-width: 576px) {
+    .weather{
+        border-radius: 0px;
+    }
+}
